@@ -1,0 +1,3 @@
+Ford,Mustang,1966,AZUCAR
+Chevrolet,Chevette,1980,J43-SMB
+Toyota,Camry,1985,622-VRX

@@ -1,0 +1,15 @@
+the sum is: 1027
+the average is: 10
+the totals per row are: 
+1. row: 160
+2. row: 89
+3. row: 82
+4. row: 79
+5. row: 111
+6. row: 91
+7. row: 99
+8. row: 97
+9. row: 93
+10. row: 126
+the totals per column are: 
+the amount of 17's: 2

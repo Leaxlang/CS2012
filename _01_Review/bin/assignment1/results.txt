@@ -1,0 +1,14 @@
+The sum is: 330
+The average is: 33.0
+------- 
+ The original column of numbers was:
+3
+3
+4
+5
+34
+5
+2
+34
+234
+6

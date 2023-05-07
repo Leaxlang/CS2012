@@ -1,0 +1,42 @@
+GENERAL QUESTIONS
+
+1. What is the difference between an abstract class and interface class? (3-5)
+
+Abstract classes:
+- implemented and abstract methods
+- a subclass can only inherit from one one abstract class
+- represents a type of object
+- can have abstract modifiers such as public, protected, private 
+
+Interfaces:
+- only abstract methods
+- a class can implement multiple interfaces 
+- represents a set of behaviors 
+- only public access
+
+
+2. Do all public classes that implement an interface need to implement all the methods?
+Which type of class avoids this rule(1-2)
+
+Normally a class that implements an Interface has to implements all the methods declared 
+in the interface. An exception is an abstract class, which can implement only some of the methods.
+
+
+3. If a class extends an abstract class , do all the methods need to be implemented? When
+and why?(1-2)
+A subclass extending an abstract superclass has to implement all the
+methods declared in the superclass, if it is a concrete class. An abstract subclass
+can only implement some of the superclasse's methods.
+
+
+4. Can you instantiate an object of type abstract?(1-2)
+
+No, creating an object from an abstract class is not possible. Abstract classes are 
+like a blueprint or template for other classes.
+
+
+5. What is the difference between extend and implement?(2-3)
+*Extend* is used with abstract classes, and implement is used with Interfaces. 
+
+	public class Truck extends Vehicle{...}
+	public class Truck implements Vehicle {...}
